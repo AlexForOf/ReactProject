@@ -1,0 +1,14 @@
+.navbar {
+    background: #FFFFFF;
+    /* background: black; */
+    height: 70px;
+    padding: 20px 30px;
+    display: flex;
+    /* border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px; */
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.navbar > .navbar--logo {
+    max-width: 100px;
+}

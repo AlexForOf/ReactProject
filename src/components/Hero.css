@@ -1,0 +1,20 @@
+.hero {
+    padding: 25px 30px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.hero--photoGrid{
+    max-width: 45%;
+    align-self: center;
+    /* width: 50%; */
+}
+.hero--main--header {
+    font-size: 3rem;
+    margin-bottom: 16px;
+}
+.hero--main--text{
+    font-size: 1.5rem;
+    margin-top: 0;
+}
